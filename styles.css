@@ -38,10 +38,10 @@ main {
 }
 
 .iframe-section {
-    grid-column: 1/7;
+    grid-column: 1/13;
     grid-row: 1/4;
-    padding: 20px;
-    transform: translate(0, -10%);
+    padding: 1px;
+    transform: translate(-20%, 0);
 }
 
 .info-section {
@@ -124,6 +124,6 @@ main {
         grid-column: 1/4;
         grid-row: 3/4;
         padding: 0;
-        transform: translate(0, -30%);
+        transform: translate(0, -10%);
     }
 }
